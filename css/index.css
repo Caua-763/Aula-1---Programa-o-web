@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+    background-color: #c47171;
+    margin: 0;
+    padding: auto;
+}
+
+h1{
+    color: #ee7f7b;
+}
+p{
+    color: #e6cdcd;
+}
+h2{
+    color: #e2cece;
+}
+ol{
+    list-style-type: decimal;
+    max-width: 600px;
+    margin: 0 auto;
+    padding-left: 20px;
+    color: rgb(39, 114, 179);
+}
+li{
+    color: sandybrown ;
+}
